@@ -7,7 +7,7 @@ Objective
 
 Process taken...
 Step 1 - Analayzed the mail with phishing charateristc and their sign of anomly behaviour
-Step 2 - list out the characteristics of phishing mails and gaining the deeper knowledge on Phshing threatening on realtime cyber attacks
+Step 2 - Identifying and list out the characteristics of phishing mails and gaining the deeper knowledge on Phshing threatening on realtime cyber attacks
 Step 3 - Prescribed the Final Outcome and general Awareness on phishing.
  
 Sample_Mail
