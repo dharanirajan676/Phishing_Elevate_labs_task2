@@ -28,6 +28,7 @@ ________________________________________________________________________________
 
 Since the above mail was ai generated fake / sample mail with phishing characteristic, and real sample mail screeshot had uploaded in files section and analysed the both of thems characteristic if they were behaving anomaly such as,
 >. Sender’s email	- Is the domain fake? (micr0soft-support.com) / (dare2compete.news)
+>. Email header -	Use an free online header analyzer: MXToolbox ( https://mxtoolbox.com/EmailHeaders.aspx )
 >. Fake/mismatched URLs	- Hover over the link and compare real vs shown URL
 >. Spelling/grammar errors - Look for broken language or poor grammar
 |-------------------------------------------------------------------------|
